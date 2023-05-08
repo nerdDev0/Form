@@ -11,7 +11,7 @@ npm install react-icons --save
 npm start
 
 
-//Then move the Form folder to the src folder and import the components into the component app.js
+//Then move the "Form" folder to the src folder and import the components into the component app.js
 //Note:To use react-bootstrap, get help from the react-bootstrap site
 
 https://react-bootstrap.github.io/getting-started/introduction/
