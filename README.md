@@ -3,11 +3,13 @@
 
 //This project is a react app, so please run the following commands.
 
-npx create-react-app FormApp/n
-cd FormApp/n
-npm install react-bootstrap bootstrap/n
-npm install react-icons --save/n
-npm start/n
+
+npx create-react-app FormApp
+cd FormApp
+npm install react-bootstrap bootstrap
+npm install react-icons --save
+npm start
+
 
 //Then move the Form folder to the src folder and import the components into the component app.js
 //Note:To use react-bootstrap, get help from the react-bootstrap site
